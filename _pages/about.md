@@ -1,5 +1,5 @@
 ---
-permalink: _config.yml
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
